@@ -1,0 +1,29 @@
+
+body {
+    background-color: red;
+}
+.containerclass {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    
+}
+.buttonclass {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.container {
+    display: grid;
+    height: 600px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: black;
+    background-color: white;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
